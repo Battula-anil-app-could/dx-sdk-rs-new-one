@@ -12,7 +12,7 @@ documentation = "https://docs.dharitri.com/"
 description = "Dharitri WebAssembly smart contract module that provides a contract users flag"
 keywords = ["dharitri", "wasm", "webassembly", "blockchain", "contract"]
 categories = ["no-std", "wasm", "cryptography::cryptocurrencies"]
-
+# ##################################################
 [features]
 wasm-output-mode = ["dharitri-wasm-node"]
 
